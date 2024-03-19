@@ -25,6 +25,7 @@ get pet by status
 
 <hr/>
 
+Tests
 ![testss](https://github.com/viktormark/postman_practice/assets/58149046/64fda79f-5913-49ab-9537-71c63bb658fb)
 
 
