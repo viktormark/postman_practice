@@ -24,7 +24,12 @@ get pet by status
 ![get pet by status](https://github.com/viktormark/postman_practice/assets/58149046/95631925-e526-4bc8-89ca-297aef0e4ec4)
 
 <hr/>
-![tests](https://github.com/viktormark/postman_practice/assets/58149046/4853b224-652d-4d57-ab8b-0444e54760ec)
+
+![testss](https://github.com/viktormark/postman_practice/assets/58149046/64fda79f-5913-49ab-9537-71c63bb658fb)
+
+
+<hr/>
+
 
 
 
